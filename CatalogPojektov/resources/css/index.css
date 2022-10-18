@@ -1,0 +1,44 @@
+.one h6 {
+    background-color:#a37946 ;
+    height: 60px;
+    text-align: center;
+    word-spacing: 5em;
+    line-height: 3;
+    font-size: 20px;
+    margin: 0 0 0 0;
+    }
+header {
+    color: rgb(0, 0, 0);
+    
+    text-align: center;
+    height: 120px;
+    margin: 0 auto;
+    font-size: 25px;
+    margin: 0 0 0 0;
+    line-height: 2;
+}
+img {  
+    width: 400px;
+    height: 200px;
+    margin: 50px 50px 50px 50px;
+    border: 15px solid black;
+    
+    
+}
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    }
+h3 {
+    color: black;
+    text-align: center;
+}
+h4{
+    
+    background-color: rgb(100, 23, 23);
+}
+html { 
+    background-image: url("file:///C:/projects/CatalogPojektov/images/banner.jpg");
+}
+
